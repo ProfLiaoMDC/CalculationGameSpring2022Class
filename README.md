@@ -1,12 +1,14 @@
 # CalculationGameSpring2022Class
 Calculation Game in C++
+
 ## Getting Started
 ### Dependencies
 #### Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-ex. Windows 10
+ex. Windows 10 or Mac or Linux 
 
 ### Installing
 #### How/where to download your program
+#### IDE(Replit ex. [@Replit](https://Replit.com/), VisualStudio)
 #### Any modifications needed to be made to files/folders
 
 ### Executing program
@@ -20,15 +22,16 @@ ex. Windows 10
 
 ### Authors
 #### Contributors names and contact info
-ex. Dominique Pizzie
-ex. [@DomPizzie](https://pages.github.com/)
+ex. Matt Carr
+ex. [@MattCarr](https://pages.github.com/)
 
 
 ## Version History
 0.2
 Various bug fixes and optimizations
-See commit change or See release history
 0.1
+See commit change or See release history
+
 
 ## Initial Release
 
