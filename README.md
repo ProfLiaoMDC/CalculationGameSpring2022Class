@@ -8,7 +8,7 @@ ex. Windows 10 or Mac or Linux
 
 ### Installing
 #### How/where to download your program
-#### IDE(Replit ex. [@Replit](https://Replit.com/), VisualStudio)
+#### IDE(Replit [@Replit](https://Replit.com/), VisualStudio)
 #### Any modifications needed to be made to files/folders
 
 ### Executing program
